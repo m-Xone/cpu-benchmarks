@@ -10,3 +10,4 @@ int array_step(int);
 long long precision_timer(void);
 long long arr_avg_long(long long*, int);
 unsigned long read_tsc(void);
+int func_head(int);
